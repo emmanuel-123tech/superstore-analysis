@@ -31,12 +31,4 @@
 | **Dash / JupyterDash** | Dashboard development |
 | **Google Colab / Jupyter Notebook** | Execution environment |
 
----
 
-### ⚙️ Installation
-Clone the repository and install required dependencies:
-
-```bash
-git clone https://github.com/yourusername/superstore-dashboard.git
-cd superstore-dashboard
-pip install -r requirements.txt
